@@ -1,0 +1,26 @@
+body {
+    background: rgb(197, 231, 197);
+    margin-left: 80px;
+
+}
+
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 18px;
+    color: blue;
+}
+
+.img_padrao {
+    margin-bottom: 0px;
+    width: 40px;
+}
+
